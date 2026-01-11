@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92533717.css",
+    "main.js": "/static/js/main.507d9fc2.js",
+    "static/media/mancuernas.jpg": "/static/media/mancuernas.6151884c79692d2502a4.jpg",
+    "index.html": "/index.html",
+    "main.92533717.css.map": "/static/css/main.92533717.css.map",
+    "main.507d9fc2.js.map": "/static/js/main.507d9fc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92533717.css",
+    "static/js/main.507d9fc2.js"
+  ]
+}
